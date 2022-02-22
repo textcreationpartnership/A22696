@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the iust causes moouing Her Maiestie to send a nauie, and armie to the seas, and toward Spaine</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1597</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22696</idno>
+            <idno type="STC">STC 9208.2</idno>
+            <idno type="STC">ESTC S399</idno>
+            <idno type="EEBO-CITATION">22354926</idno>
+            <idno type="OCLC">ocm 22354926</idno>
+            <idno type="VID">25442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1752:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the iust causes moouing Her Maiestie to send a nauie, and armie to the seas, and toward Spaine</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1597.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Spain --  1558-1603.</term>
+               <term>Spain --  Foreign relations --  England --  1556-1598.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Spain --  History --  Philip II, 1556-1598.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25442:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:25442:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:25442:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>
+               <hi>A</hi> DECLARATION OF THE IVST CAV<g ref="char:EOLhyphen"/>SES MOOVING HER <hi>Maieſtie to ſend a Nauie, and Armie to the Seas, and toward Spaine.</hi>
+            </p>
+            <p>Imprinted at London, by the De<g ref="char:EOLhyphen"/>puties of Chriſtopher Barker, Prin<g ref="char:EOLhyphen"/>ter <hi>to the Queenes moſt excellent Maieſtie.</hi>
+            </p>
+            <p>Anno Dom. 1597.</p>
+            <pb facs="tcp:25442:3"/>
+            <!-- PDF PAGE 21 -->
+            <figure>
+               <figDesc>Royal coat of arms of Elizabeth I</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:25442:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>A Declaration of the iuſt <hi>cauſes moouing the Queenes</hi> Ma<g ref="char:EOLhyphen"/>ieſtie to ſend a Nauie, and Ar<g ref="char:EOLhyphen"/>mie <hi>to the Seas, and towards Spaine.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Lthough the Queenes</hi> Maieſtie as a So<g ref="char:EOLhyphen"/>ueraigne Prince, and Queene, is not (for reſpect of any perſon) bounde to make accompte, or declare to the world the cauſes for iuſti<g ref="char:EOLhyphen"/>fication of any her publike actions: yet leaſt any ſiniſter, or doubtfull interpretation ſhould be made, by the diuerſitie of opinions, either of Strangers, or of her owne naturall
+<pb n="2" facs="tcp:25442:4"/>
+               <!-- PDF PAGE 22 -->Subiects, of her preſent preparations of a Nauy, and an Army, nowe committed to the <hi>Earle</hi> of <hi>Eſſex,</hi> as her Generall, with di<g ref="char:EOLhyphen"/>uers Noble men, and other perſons of cre<g ref="char:EOLhyphen"/>dite and reputation, to ſerue with him both by Sea and Land: Her Maieſtie would haue it vnderſtood for a very trueth, that ſhee is mooued hereunto, onely for defence of the State of her owne Kingdomes, and people, againſt the apparant preparations of great Forces, put in readineſſe by the King of <hi>Spaine,</hi> to offend her Maieſtie ſundry wayes, and ſpecially to inuade her Realme of <hi>Ireland.</hi> In which deſſeigne he was ſo farre proceeded in the beginning of this laſt Winter, that he had amaſſed together as great a number of Ships to ſerue in the ſaid action, as he could furniſh from all partes of his Dominions, or could recouer, by imbarging all other Ships of ſeruice, which came for trade into <hi>Spaine</hi> or <hi>Portugall.</hi> And yet ſuch was the prouidence of God, contrary to that Kings hope, and in<g ref="char:EOLhyphen"/>tention, (by haſtning of his Enterpriſe in a time vnlooked for) to ſurpriſe ſome place in <hi>England</hi> or <hi>Ireland,</hi> before her Maieſtie could haue had her owne Force in readineſſe, ſhee ſtill prouiding (but that ſhee is dayly prouo<g ref="char:EOLhyphen"/>ked) to haue liued in Peace, which ſhee pro<g ref="char:EOLhyphen"/>feſſeth to wiſh both to her ſelfe, and all Chri<g ref="char:EOLhyphen"/>ſtendome, as it pleaſed him who from Hea<g ref="char:EOLhyphen"/>uen
+<pb n="3" facs="tcp:25442:4"/>
+               <!-- PDF PAGE 22 -->with Iuſtice beholdeth all mens purpo<g ref="char:EOLhyphen"/>ſes, condemning the tyrannous diſturbers of the worlde, and comforting ſuch as for Peace withſtand violence) ſuddenly and moſt ſtrangely to drowne and make vnſeruiceable diuers of his beſt Ships of warre, being vn<g ref="char:EOLhyphen"/>der ſayle comming from <hi>Lisbone,</hi> and very neere to the deſtined Hauen of <hi>Ferroll,</hi> with deſtruction of no ſmall numbers of ſouldiers and Mariners. Amongſt which, many of thoſe Iriſh Rebels of all ſortes of profeſſions both tituler Biſhops, and other Iriſh people, that were entertained in <hi>Spaine,</hi> to haue ac<g ref="char:EOLhyphen"/>companied either that Nauie or ſome part thereof into <hi>Ireland,</hi> were alſo caſt away. By which manifeſt acte of Almighty God, that Armie was ſo weakened, as the ſame coulde not put to the Seas, according to his former deſſeigne: and yet neuertheleſſe, as it mani<g ref="char:EOLhyphen"/>feſtly hath appeared, the King of <hi>Spaine</hi> not being warned by this iuſt puniſhment by Gods ordinance, without reſiſtance by any outward Force, but forgetting howe by the fauour of Almighty God, his proud Nauie in the yeere eightie eight, was ouerthrowen by our Forces, and notwithſtanding his loſſe at <hi>Cales</hi> by her Maieſties Armie, which ſhee was in like ſort conſtrained for her ſafetie to defeate, (all being but the preparatiues to ſome dangerous action againſt her) ſuch is
+<pb n="4" facs="tcp:25442:5"/>
+               <!-- PDF PAGE 23 -->ſtill his malice, (although he finde that both by God and man he is impeached in his in<g ref="char:EOLhyphen"/>iuſt pretences,) as he hath haſtened to make all maner of new preparations of Shipping, and of men and victuall, and munitions, greater then all <hi>Spaine</hi> and <hi>Portugall</hi> coulde yeeld, &amp; therefore hath ſent into <hi>Italie,</hi> and to the Eaſt Countreyes for all things neceſſarie to repaire his Armie at <hi>Ferroll,</hi> to purſue his former purpoſe, and in the meane time hath ſent certaine Captaines in ſundry ſmall Veſ<g ref="char:EOLhyphen"/>ſels, with a remnant of ſome Iriſh Fugi<g ref="char:EOLhyphen"/>tiues into <hi>Ireland,</hi> to animate the Rebels to be obſtinate in their Rebellion, vntill hee might ſend them ſuccours, not onely feeding the Principals with hope of vaine Titles, and Dignities, but plainely auowing the v<g ref="char:EOLhyphen"/>ſurpation of the whole Realme for himſelfe, to the depriuation of her Maieſties Crowne and State of that Kingdome, a matter ſo farre knowen, and prooued, as beſides that, it is moſt notorious, that his Army was in October laſt on the high way towards their iourney, the Capitall Traytour <hi>Tyrone</hi> him<g ref="char:EOLhyphen"/>ſelfe, hath ſent to her Gouernour of that Realme, a letter ſigned with the King of <hi>Spaines</hi> owne name, to the purpoſes afore<g ref="char:EOLhyphen"/>ſaide. Nowe then that theſe the King of <hi>Spaines</hi> actions and purpoſes, are manifeſtly knowen, &amp; the reparation of his Nauy dayly
+<pb n="5" facs="tcp:25442:5"/>
+               <!-- PDF PAGE 23 -->laboured, and an Army newly leuyed, with all neceſſaries of Victuall and Munition, brought to <hi>Ferroll</hi> fit for ſuch an enterpriſe, ſo as his ſending to the Seas (aſſoone as thoſe difficulties are ouercome) is dayly ex<g ref="char:EOLhyphen"/>pected, and ſo publikely diuulged without gi<g ref="char:EOLhyphen"/>uing colour for any other purpoſe. And ſeeing her Maieſtie doeth finde the Rebels in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> perſiſt ſtill in generall expectation to be relieued with a <hi>Spaniſh</hi> Nauie: Her Maieſtie of her Princely prouidence for the ſafetie of both her Kingdomes, doth appeale to all the world whether ſhee be not neceſſarily infor<g ref="char:EOLhyphen"/>ced, to ſend out this Army to the Seas, to re<g ref="char:EOLhyphen"/>ſiſt &amp; diuert all Acts of Hoſtilitie which that Army of <hi>Spaine,</hi> might nowe this Sommer time attempt againſt either of her realmes of <hi>England</hi> or <hi>Ireland,</hi> her Nauy being compoun<g ref="char:EOLhyphen"/>ded of a competent number of her Maieſties owne Shippes of warre without burdening of her Subiects for ſeruice with their Port ſhips (as in former times) but retaining the Admirall of her Kingdome in readines with the reſt of her Royall Shippes, to withſtand all other accidents that might appeare dan<g ref="char:EOLhyphen"/>gerous in theſe parts neere her. To all which courſes her excellent Maieſtie being thus prouoked, this her purpoſe may and ought not onely to be allowed, but fauoured, &amp; fur<g ref="char:EOLhyphen"/>thered by all Chriſtian Princes, States, and
+<pb n="6" facs="tcp:25442:6"/>
+               <!-- PDF PAGE 24 -->people, the ſame being ſo affected generally by her owne Subiects as ſhe is iuſtly moued to denie the ſutes of great numbers of her Nobilitie &amp; valiant Gentlemen, who hauing importuned her for leaue to ſerue as Volun<g ref="char:EOLhyphen"/>taries in this Voyage, ſhee hath ſtayed great part of them to doe her ſeruice at home. And therefore little doubteth, but by continuance of Gods fauour (whereof ſhee hath hy ſun<g ref="char:EOLhyphen"/>dry ſpeciall and notable bleſſings had ſingu<g ref="char:EOLhyphen"/>lar demonſtration) to preſerue her King<g ref="char:EOLhyphen"/>domes by her Forces, thus timely prouided, and ſhadowed vnder the fauour of Almighty God, who hath hitherto, and will here<g ref="char:EOLhyphen"/>after ſee theſe <hi>Spaniſh,</hi> proude, and vniuſt at<g ref="char:EOLhyphen"/>tempts, made fruſtrate, whereby the King may by the chaſtiſement of the Almightie God of Hoſtes, bee induced to liue in Peace with his neighbours, which all iuſt Princes propound for an ende of all their Martiall actions.</p>
+            <pb facs="tcp:25442:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
